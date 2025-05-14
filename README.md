@@ -48,7 +48,7 @@ superstore-kpi-sql-report/
 
 
 ## ✅ Completed KPIs
-
+16 **KPIs** related to following completed
 1. **Revenue KPIs**
 2. **Profitability KPIs**
 3. **Return Rate KPIs**
